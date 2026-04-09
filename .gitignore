@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Generated backtest output files
+*_backtrader_demo.txt
+*_equity_curve.png
+*_equity_curve.csv
+*_grid_search_results.csv
