@@ -1,4 +1,4 @@
-# Tushare + LightGBM + Backtrader 策略简介
+# 策略简介
 
 多因子机器学习选股回测学习项目：
 
